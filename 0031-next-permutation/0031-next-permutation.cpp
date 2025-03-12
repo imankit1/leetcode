@@ -1,6 +1,27 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        next_permutation(nums.begin(), nums.end());
+        int n=nums.size();
+        int ind=-1;
+        //turning point jaha se value chota ho raha h
+        for(int i=n-2;i>=0;i--){
+            if(nums[i]<nums[i+1]){
+                ind=i;
+                break;
+            }
+        }
+        if(ind==-1){
+            reverse(nums.begin(), nums.end());
+            return;
+        }
+        // swap kr do 
+        for(int i=n-1;i>=0;i--){
+            if(nums[ind]<nums[i]){
+                swap(nums[ind], nums[i]);
+                break;
+            }
+        }
+
+        reverse(nums.begin()+ind+1, nums.end());
     }
 };
