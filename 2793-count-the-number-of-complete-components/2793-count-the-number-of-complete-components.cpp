@@ -20,16 +20,28 @@ public:
         }
         vector<bool>visited(n,false);
         int result=0;
+        queue<int>q;
         for(int i=0;i<n;i++){
             if(!visited[i]){
-                int node=i;
-                int e=0;
-                int v=0;
-                dfs(adj, e, v, visited, node);
-                if(v*(v-1)==e) result++;
-
+            int e=0, v=0;
+                q.push(i);
+                visited[i]=true;
+             while(!q.empty()){
+              int front=q.front();
+            //   visited[front]=true;
+            q.pop();
+            v++;
+            e+=adj[front].size();
+            for(auto neighbour: adj[front]){
+                if(!visited[neighbour]){
+                    q.push(neighbour);
+                    visited[neighbour]=true;
+                }
             }
         }
+        if(v*(v-1)==e) result++;
+            }
+            }
         return result;
     }
 };
