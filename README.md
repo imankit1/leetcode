@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imankit1/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0926-find-and-replace-pattern](https://github.com/imankit1/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/imankit1/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imankit1/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imankit1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/imankit1/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/imankit1/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imankit1/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2833-count-zero-request-servers](https://github.com/imankit1/leetcode/tree/master/2833-count-zero-request-servers) |
 | [3430-count-days-without-meetings](https://github.com/imankit1/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/imankit1/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/imankit1/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Math
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imankit1/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imankit1/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
