@@ -1,7 +1,9 @@
 class Solution {
 public:
     int eraseOverlapIntervals(vector<vector<int>>& inter) {
-        sort(inter.begin(), inter.end());
+        sort(inter.begin(), inter.end(), [](const auto &a, const auto &b){
+            return a[0]<b[0];
+        });
 
         int maxii=inter[0][1];
         int cnt=0;
