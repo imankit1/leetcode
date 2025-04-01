@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/imankit1/leetcode/tree/master/0141-linked-list-cycle) |
 | [0768-partition-labels](https://github.com/imankit1/leetcode/tree/master/0768-partition-labels) |
 | [0926-find-and-replace-pattern](https://github.com/imankit1/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imankit1/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/imankit1/leetcode/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/imankit1/leetcode/tree/master/0141-linked-list-cycle) |
 | [0768-partition-labels](https://github.com/imankit1/leetcode/tree/master/0768-partition-labels) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/imankit1/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imankit1/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/imankit1/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/imankit1/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
