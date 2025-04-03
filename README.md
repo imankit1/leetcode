@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/imankit1/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/imankit1/leetcode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/imankit1/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imankit1/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/imankit1/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0926-find-and-replace-pattern](https://github.com/imankit1/leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/imankit1/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imankit1/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/imankit1/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/imankit1/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/imankit1/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/imankit1/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
