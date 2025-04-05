@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/imankit1/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1908-recyclable-and-low-fat-products](https://github.com/imankit1/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Divide and Conquer
 |  |
