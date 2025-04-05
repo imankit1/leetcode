@@ -1,29 +1,24 @@
 class Solution {
 public:
-    void help(vector<int>& nums, vector<vector<int>>& v, vector<int>&arr, int i){
+    int help(vector<int>& nums, int i, int curr){
     //    base case
         if(i==nums.size()){
-            v.push_back(arr);
-            return;
+          
+            return curr;
         }
-        arr.push_back(nums[i]);
-        help(nums, v, arr, i+1);
-        arr.pop_back();
-        help(nums, v, arr, i+1);
+        
+        int take= help(nums, i+1, curr^nums[i]);
+   
+       int not_take= help(nums, i+1, curr);
+       return take+ not_take;
 
     }
     int subsetXORSum(vector<int>& nums) {
-        vector<vector<int>>v;
-        vector<int>arr;
-        help(nums, v, arr ,0);
+       
+       
 
-        int ans=0;
-
-        for(auto i: v){
-            int temp=0;
-            for(auto j:i) temp^=j;
-            ans+=temp;
-        }
+        int ans= help(nums, 0, 0);
+        
         return ans;
     }
 };
