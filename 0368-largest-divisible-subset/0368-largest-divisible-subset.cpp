@@ -24,11 +24,10 @@ public:
         }
 
         vector<int>ans;
-        ans.push_back(nums[index]);
-        while(pre_idx[index]!=-1){
-            int k=pre_idx[index];
-            ans.push_back(nums[k]);
-            index=k;
+        while(index!=-1){
+            ans.push_back(nums[index]);
+                   
+            index= pre_idx[index];
         }
         reverse(ans.begin(), ans.end());
         return ans;
