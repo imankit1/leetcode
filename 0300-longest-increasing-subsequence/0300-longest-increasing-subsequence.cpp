@@ -10,13 +10,13 @@ public:
             for(int j=0;j<i;j++){
                 if(nums[j]<nums[i] ){
                      dp[i]=max(dp[j]+1, dp[i]);
+                     maxii=max(maxii, dp[i]);
                     
                 }
             }
          
         }
-        int k= *max_element(dp.begin(), dp.end());
-        return k;
+         return maxii;
 
     }
 };
