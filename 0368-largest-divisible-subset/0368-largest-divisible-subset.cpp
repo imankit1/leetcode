@@ -1,3 +1,37 @@
+// Recursive Solution T.C=O(2^n)
+
+class Solution {
+public:
+    void help(vector<int>& nums, vector<int>&ans, vector<int>& temp, 
+    int prev, int i){
+        //base case
+        if(i>=nums.size()){
+            if(temp.size()>ans.size()){
+                ans=temp;
+            }
+            return;
+        }
+
+
+        if(prev==-1 || nums[i]%prev==0){
+            temp.push_back(nums[i]);
+            help(nums, ans, temp, nums[i], i+1);
+            temp.pop_back();
+        }
+        help(nums, ans, temp, prev, i+1);
+    }
+    vector<int> largestDivisibleSubset(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+         
+        vector<int>ans;
+        vector<int>temp;
+        help(nums, ans, temp, -1, 0);
+        return ans;
+    }
+};
+
+
+// bottom -up approach-->T.C=O(N*N)
 class Solution {
 public:
     vector<int> largestDivisibleSubset(vector<int>& nums) {
