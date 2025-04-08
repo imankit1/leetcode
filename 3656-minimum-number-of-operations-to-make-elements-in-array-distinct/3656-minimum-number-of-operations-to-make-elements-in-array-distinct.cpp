@@ -21,6 +21,7 @@ public:
                     i=i+3;
                     continue;
                 }
+                if(j==n) return 0;
                 j++;
             }
             i++;
