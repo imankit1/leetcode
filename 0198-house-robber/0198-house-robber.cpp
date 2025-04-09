@@ -1,3 +1,23 @@
+//recursive approach
+class Solution {
+public:
+    int helprob(vector<int>& nums, int idx){
+        //base case
+        if(idx>=nums.size()){
+            return 0;
+      
+        int takehouse=nums[idx]+helprob(nums, idx+2);
+        int not_takehouse=helprob(nums, idx+1);
+
+        return max(takehouse, not_takehouse);
+    }
+    int rob(vector<int>& nums) {
+         
+        return helprob(nums, 0);
+    }
+};
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+//memoization
 class Solution {
 public:
     int helprob(vector<int>& nums, int idx, vector<int>& dp){
