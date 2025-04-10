@@ -30,3 +30,31 @@ public:
         return ans;
     }
 };
+
+// ---------------------------------------------------------------------------------------------------------
+class Solution {
+public:
+    vector<int> findAnagrams(string s, string p) {
+        vector<int>ans;
+         int m=s.size(), n=p.size();
+
+        
+        vector<int>arr(26, 0);
+        vector<int>brr(26, 0);
+        for(char i:p) arr[i-'a']++;
+
+        int l,r;
+        l=r=0;
+        while(r<m){
+            brr[s[r]-'a']++;
+            if(r-l+1>n){
+                brr[s[l]-'a']--;
+                l++;
+            }
+           
+            if(arr==brr)ans.push_back(l);
+            r++;
+        }
+        return ans;
+    }
+};
