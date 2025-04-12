@@ -7,7 +7,7 @@ public:
         if(i>=s1.size() || j>=s2.size()) return 0;
         if(dp[i][j]!=-1) return dp[i][j];
 
-        if(s1[i]==s2[j]) return 1+longestHelp(s1, s2, i+1, j+1, dp);
+        if(s1[i]==s2[j]) return dp[i][j]= 1+longestHelp(s1, s2, i+1, j+1, dp);
 
         return dp[i][j]=max(longestHelp(s1, s2, i+1, j, dp), longestHelp(s1, s2, i, j+1, dp));
     }
