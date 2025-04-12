@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/imankit1/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0768-partition-labels](https://github.com/imankit1/leetcode/tree/master/0768-partition-labels) |
 | [0926-find-and-replace-pattern](https://github.com/imankit1/leetcode/tree/master/0926-find-and-replace-pattern) |
+| [1250-longest-common-subsequence](https://github.com/imankit1/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imankit1/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imankit1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/imankit1/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/imankit1/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/imankit1/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/imankit1/leetcode/tree/master/0740-delete-and-earn) |
+| [1250-longest-common-subsequence](https://github.com/imankit1/leetcode/tree/master/1250-longest-common-subsequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/imankit1/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/imankit1/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/imankit1/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
