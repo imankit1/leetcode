@@ -1,27 +1,27 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        int j=1;
-        string s="1";
-        unordered_map<char, int>mp;
-        while(j!=n){
-            string ans="";
-            for(int i=0;i<s.size();i++){
-                mp[s[i]]++;
-                if(mp.size()==2){
-                    ans+=to_string(mp[s[i-1]]);
-                    ans+=s[i-1];
-                    mp.erase(s[i-1]);
+         string ans="1";
+           int i=1;
+          while(i<n){
+            int cnt=0;
+            string t="";
+        
+            char c=ans[0];
+            for(int j=0;j<ans.size();j++){
+                if(c==ans[j]) cnt++;
+                else{
+                    t+=to_string(cnt);
+                    t+=c;
+                    cnt=1;
+                    c=ans[j];
                 }
             }
-            for(auto i:mp){
-                ans+=to_string(i.second);
-                ans+=i.first;
-            }
-            s=ans;
-            mp.clear();
-           j++;
+            t+=to_string(cnt);
+            t+=c;
+            ans=t;
+            i++;
         }
-        return s;
+        return ans;
     }
 };
