@@ -4,10 +4,10 @@ public:
         int i = 0;
         int n = ins.size();
         long long ans = 0;
-        unordered_set<int> st;
+        unordered_set<int> st;//check kar raha hai ki index visited hai yaa nahi
         while (i >= 0 && i < n) {
-            if (st.find(i) != st.end()) break; // Already visited => loop
-            st.insert(i);
+            if (st.find(i) != st.end()) break;//agar pahle visit ki hai to break kar de laude
+            st.insert(i);//otherwise insert kar de
             
             if (ins[i] == "add") {
                 ans += val[i];
