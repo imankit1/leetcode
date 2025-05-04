@@ -13,11 +13,9 @@ public:
             for(int j=i+1;j<row;j++){
                 int c=dominoes[j][0];
                 int d=dominoes[j][1];
-                if(visited[j]==0){
                 if((a==c && b==d) || (a==d && b==c)){
                     cnt++;
                     visited[j]=1;
-                }
                 }
             }
             int pairs=cnt*(cnt-1)/2;
