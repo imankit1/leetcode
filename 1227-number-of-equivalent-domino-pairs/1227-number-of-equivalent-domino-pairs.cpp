@@ -9,6 +9,7 @@ public:
             int b=dominoes[i][1];
 
             int cnt=1;
+            if(visited[i]==0){
             for(int j=i+1;j<row;j++){
                 int c=dominoes[j][0];
                 int d=dominoes[j][1];
@@ -21,6 +22,7 @@ public:
             }
             int pairs=cnt*(cnt-1)/2;
             maxii+=pairs;
+            }
            
         }
         return maxii;
