@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/imankit1/leetcode/tree/master/0177-nth-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/imankit1/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1664-find-users-with-valid-e-mails](https://github.com/imankit1/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1827-invalid-tweets](https://github.com/imankit1/leetcode/tree/master/1827-invalid-tweets) |
