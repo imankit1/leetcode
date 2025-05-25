@@ -3,10 +3,9 @@ public:
     string resultingString(string s) {
         stack<char>st;
         for(int i=0;i<s.size();i++){
-            if(!st.empty()){
-                if(abs(st.top()-s[i])==1 ||
-                 abs(st.top()-s[i])==25) st.pop();
-                 else st.push(s[i]); 
+            if(!st.empty()  &&  (abs(st.top()-s[i])==1 ||
+                 abs(st.top()-s[i])==25)){
+                st.pop();
             }
 
             else st.push(s[i]); 
