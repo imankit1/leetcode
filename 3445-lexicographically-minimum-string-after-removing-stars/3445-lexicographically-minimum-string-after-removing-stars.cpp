@@ -16,18 +16,18 @@ typedef pair<char, int>P;
         priority_queue<P, vector<P>, comp>pq;
          
 
-        for(int i=0;i<s.size();i++){
+        for(int i=0;i<s.size();i++){//O(n)
             if(s[i]=='*') {
-                int idx=pq.top().second;
+                int idx=pq.top().second;  
                 pq.pop();
                 s[idx]='*';
             }
-            else pq.push({s[i], i});
+            else pq.push({s[i], i});  //O(log(n))
         }
 
         
         string ans="";
-        for(int i=0;i<s.size();i++){
+        for(int i=0;i<s.size();i++){ //O(n)
              if(s[i]!='*') ans+=s[i];
         }
         return ans;
