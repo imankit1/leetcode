@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/imankit1/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/imankit1/leetcode/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/imankit1/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/imankit1/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/imankit1/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/imankit1/leetcode/tree/master/0118-pascals-triangle) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/imankit1/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/imankit1/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/imankit1/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/imankit1/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/imankit1/leetcode/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/imankit1/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0768-partition-labels](https://github.com/imankit1/leetcode/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/imankit1/leetcode/tree/master/0853-most-profit-assigning-work) |
