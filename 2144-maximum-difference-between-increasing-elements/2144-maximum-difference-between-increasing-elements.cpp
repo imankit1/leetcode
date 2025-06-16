@@ -26,7 +26,7 @@ public:
             maxii=max(maxii, nums[i]);
             temp[i]=maxii;
         }
-         return f(nums);
-        //  return fun(nums, temp);
+        //  return f(nums);
+         return fun(nums, temp);
     }
 };
