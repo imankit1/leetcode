@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/imankit1/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imankit1/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imankit1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/imankit1/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/imankit1/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imankit1/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/imankit1/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/imankit1/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1708-design-parking-system](https://github.com/imankit1/leetcode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/imankit1/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/imankit1/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/imankit1/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Queue
 |  |
