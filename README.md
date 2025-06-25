@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/imankit1/leetcode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/imankit1/leetcode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/imankit1/leetcode/tree/master/0816-design-hashset) |
 ## Database
 |  |
@@ -390,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/imankit1/leetcode/tree/master/0948-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/imankit1/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
