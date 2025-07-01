@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/imankit1/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/imankit1/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/imankit1/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/imankit1/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/imankit1/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/imankit1/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/imankit1/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/imankit1/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0853-most-profit-assigning-work](https://github.com/imankit1/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/imankit1/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/imankit1/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/imankit1/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imankit1/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/imankit1/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/imankit1/leetcode/tree/master/0141-linked-list-cycle) |
 | [0768-partition-labels](https://github.com/imankit1/leetcode/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/imankit1/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/imankit1/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/imankit1/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/imankit1/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imankit1/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/imankit1/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0853-most-profit-assigning-work](https://github.com/imankit1/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0948-sort-an-array](https://github.com/imankit1/leetcode/tree/master/0948-sort-an-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/imankit1/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imankit1/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imankit1/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/imankit1/leetcode/tree/master/2681-put-marbles-in-bags) |
