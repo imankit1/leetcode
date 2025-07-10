@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/imankit1/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/imankit1/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imankit1/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/imankit1/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Array
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/imankit1/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/imankit1/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3738-make-array-non-decreasing](https://github.com/imankit1/leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/imankit1/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/imankit1/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/imankit1/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imankit1/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3738-make-array-non-decreasing](https://github.com/imankit1/leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/imankit1/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Stack
 |  |
 | ------- |
