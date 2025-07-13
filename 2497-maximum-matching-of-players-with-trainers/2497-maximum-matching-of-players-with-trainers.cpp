@@ -12,9 +12,9 @@ public:
                 i++;
                 j++;
             }
-            else{
+            else
                 j++;
-            }
+            
         }
         return cnt;
     }
