@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/imankit1/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/imankit1/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/imankit1/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/imankit1/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/imankit1/leetcode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/imankit1/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imankit1/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/imankit1/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/imankit1/leetcode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/imankit1/leetcode/tree/master/0816-design-hashset) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/imankit1/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
 |  |
 | ------- |
