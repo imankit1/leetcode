@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imankit1/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/imankit1/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/imankit1/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/imankit1/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 | [3934-coupon-code-validator](https://github.com/imankit1/leetcode/tree/master/3934-coupon-code-validator) |
 ## Sliding Window
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/imankit1/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/imankit1/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/imankit1/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/imankit1/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Queue
 |  |
 | ------- |
