@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/imankit1/leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/imankit1/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/imankit1/leetcode/tree/master/0268-missing-number) |
+| [0289-game-of-life](https://github.com/imankit1/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/imankit1/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/imankit1/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/imankit1/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/imankit1/leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/imankit1/leetcode/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/imankit1/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1708-design-parking-system](https://github.com/imankit1/leetcode/tree/master/1708-design-parking-system) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/imankit1/leetcode/tree/master/0289-game-of-life) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imankit1/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imankit1/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Greedy
