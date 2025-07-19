@@ -9,7 +9,7 @@ public:
             }
 
 
-            return maxii;
+            return dp[idx][d]=maxii;
         }
         if(dp[idx][d]!=-1) return dp[idx][d];
         int maxii= jd[idx];
