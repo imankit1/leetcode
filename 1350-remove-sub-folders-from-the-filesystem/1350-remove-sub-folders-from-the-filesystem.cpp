@@ -11,7 +11,7 @@ public:
         string curr=folder[i].substr(0, temp.size());
 
         if(temp==curr && folder[i][temp.size()]=='/'){
-            cout<<"flag";
+         
             continue;
         }
         else{
