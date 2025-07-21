@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/imankit1/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/imankit1/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/imankit1/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/imankit1/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imankit1/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imankit1/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imankit1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
