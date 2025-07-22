@@ -12,8 +12,8 @@ public:
                 sum-=nums[l];
                 l++;
             }
-            mpp[nums[i]]++;
             sum+=nums[i];
+            mpp[nums[i]]++;
             ans=max(ans, sum);
         }
         return ans;
