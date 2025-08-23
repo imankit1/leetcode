@@ -17,7 +17,7 @@ public:
             }
         }
 
-        int area=(max_r-min_r+1)*(max_c-min_c+1);
-        return area;
+                    
+        return   (max_r-min_r+1)*(max_c-min_c+1);
     }
 };
