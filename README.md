@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/imankit1/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/imankit1/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3931-process-string-with-special-operations-i](https://github.com/imankit1/leetcode/tree/master/3931-process-string-with-special-operations-i) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/imankit1/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Queue
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3388-right-triangles](https://github.com/imankit1/leetcode/tree/master/3388-right-triangles) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/imankit1/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/imankit1/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/imankit1/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Matrix
 |  |
 | ------- |
