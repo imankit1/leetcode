@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/imankit1/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/imankit1/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/imankit1/leetcode/tree/master/3934-coupon-code-validator) |
+| [4107-find-missing-elements](https://github.com/imankit1/leetcode/tree/master/4107-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/imankit1/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/imankit1/leetcode/tree/master/3797-design-spreadsheet) |
 | [3934-coupon-code-validator](https://github.com/imankit1/leetcode/tree/master/3934-coupon-code-validator) |
+| [4107-find-missing-elements](https://github.com/imankit1/leetcode/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/imankit1/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/imankit1/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3934-coupon-code-validator](https://github.com/imankit1/leetcode/tree/master/3934-coupon-code-validator) |
+| [4107-find-missing-elements](https://github.com/imankit1/leetcode/tree/master/4107-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
