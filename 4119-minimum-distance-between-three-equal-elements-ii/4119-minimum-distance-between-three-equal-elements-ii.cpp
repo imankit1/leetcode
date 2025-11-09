@@ -9,9 +9,9 @@ public:
         }
         int mini=INT_MAX;
         for(auto i:mp){
+                vector<int>temp=i.second;
             int s=i.second.size();
             if(s>2){
-                vector<int>temp=i.second;
 
                 for(int k=0;k<s-2;k++){
                     int sum=abs(temp[k]-temp[k+1])+
