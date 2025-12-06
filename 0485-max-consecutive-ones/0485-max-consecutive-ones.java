@@ -6,7 +6,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]==0){
                 maxii=Math.max(maxii, cnt);
-                System.out.println(maxii);
+                
                 cnt=0;
             } else cnt++;
         }
