@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/imankit1/leetcode/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/imankit1/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/imankit1/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1929-concatenation-of-array](https://github.com/imankit1/leetcode/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/imankit1/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/imankit1/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/imankit1/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/imankit1/leetcode/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/imankit1/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1708-design-parking-system](https://github.com/imankit1/leetcode/tree/master/1708-design-parking-system) |
+| [1929-concatenation-of-array](https://github.com/imankit1/leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/imankit1/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/imankit1/leetcode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/imankit1/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
