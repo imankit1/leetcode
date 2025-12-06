@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imankit1/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/imankit1/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/imankit1/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1470-shuffle-the-array](https://github.com/imankit1/leetcode/tree/master/1470-shuffle-the-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imankit1/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imankit1/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-shuffle-string](https://github.com/imankit1/leetcode/tree/master/1528-shuffle-string) |
