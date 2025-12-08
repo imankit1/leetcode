@@ -17,6 +17,8 @@ class Solution {
                 int b=arr[j];
                 int sum=a+b;
 
+                if(sum>arr[arr.length-1]) break;
+
                 if(st.contains(sum)) cnt++;
             }
          }
