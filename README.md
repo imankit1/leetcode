@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3388-right-triangles](https://github.com/imankit1/leetcode/tree/master/3388-right-triangles) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imankit1/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/imankit1/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3583-count-special-triplets](https://github.com/imankit1/leetcode/tree/master/3583-count-special-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/imankit1/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/imankit1/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/imankit1/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imankit1/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/imankit1/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/imankit1/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3583-count-special-triplets](https://github.com/imankit1/leetcode/tree/master/3583-count-special-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/imankit1/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/imankit1/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3643-zero-array-transformation-ii](https://github.com/imankit1/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/imankit1/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imankit1/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3388-right-triangles](https://github.com/imankit1/leetcode/tree/master/3388-right-triangles) |
+| [3583-count-special-triplets](https://github.com/imankit1/leetcode/tree/master/3583-count-special-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/imankit1/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/imankit1/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
