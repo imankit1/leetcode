@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/imankit1/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0768-partition-labels](https://github.com/imankit1/leetcode/tree/master/0768-partition-labels) |
 | [0926-find-and-replace-pattern](https://github.com/imankit1/leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0944-delete-columns-to-make-sorted](https://github.com/imankit1/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/imankit1/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/imankit1/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/imankit1/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/imankit1/leetcode/tree/master/0816-design-hashset) |
 | [0853-most-profit-assigning-work](https://github.com/imankit1/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0926-find-and-replace-pattern](https://github.com/imankit1/leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0944-delete-columns-to-make-sorted](https://github.com/imankit1/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/imankit1/leetcode/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/imankit1/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1018-largest-perimeter-triangle](https://github.com/imankit1/leetcode/tree/master/1018-largest-perimeter-triangle) |
