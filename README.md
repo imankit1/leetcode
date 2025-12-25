@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/imankit1/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/imankit1/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/imankit1/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/imankit1/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/imankit1/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/imankit1/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/imankit1/leetcode/tree/master/0075-sort-colors) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/imankit1/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/imankit1/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/imankit1/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0853-most-profit-assigning-work](https://github.com/imankit1/leetcode/tree/master/0853-most-profit-assigning-work) |
