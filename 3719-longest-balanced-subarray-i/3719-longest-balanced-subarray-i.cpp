@@ -5,9 +5,9 @@ public:
 
         int maxCnt = 0;
 
-        for(int j=0;j<n;j++){
         set<int> st_even;
         set<int> st_odd;
+        for(int j=0;j<n;j++){
         for (int i = j; i < n; i++) {
             if (nums[i] % 2 == 0) {
                 st_even.insert(nums[i]);
@@ -21,6 +21,8 @@ public:
                 maxCnt = max(maxCnt, i-j+1);
             }
         }
+        st_even.clear();
+        st_odd.clear();
         }
         return maxCnt;
     }
