@@ -11,6 +11,7 @@ public:
                         string m=(j<10 ? "0" : "")+ to_string(j);
                         result.push_back(h+":"+m);
                     }
+                    // cout<<__builtin_popcount(j)<<endl;
 
                 }
         }
