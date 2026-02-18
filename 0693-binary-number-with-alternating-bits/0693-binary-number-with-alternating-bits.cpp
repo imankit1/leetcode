@@ -6,7 +6,7 @@ public:
             int curr_bit=n%2;
             if(curr_bit==last_bit) return false;
             else last_bit=curr_bit;
-            n/=2;
+            n=n>>1;
         } 
         return true;
     }
