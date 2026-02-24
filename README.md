@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/imankit1/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/imankit1/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imankit1/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imankit1/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2793-count-the-number-of-complete-components](https://github.com/imankit1/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -564,12 +565,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/imankit1/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/imankit1/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/imankit1/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imankit1/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/imankit1/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/imankit1/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/imankit1/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imankit1/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
