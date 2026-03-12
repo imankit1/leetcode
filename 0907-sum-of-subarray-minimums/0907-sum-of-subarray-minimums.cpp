@@ -1,15 +1,15 @@
 class Solution {
 public:
     int mod=1e9+7;
-
     vector<int>pSE(vector<int>& arr){
         int n=arr.size();
         stack<int>st;
-        vector<int>result(n);
+        st.push(-1);
+        vector<int>result(n, -1);
         for(int i=0;i<n;i++){
-            while(!st.empty() && arr[st.top()]>arr[i]) st.pop();
+            while(st.top()!=-1 && arr[st.top()]>arr[i]) st.pop();
             
-            result[i]=st.empty() ? -1: st.top();
+            result[i]=st.top();
             st.push(i);
         }
         
