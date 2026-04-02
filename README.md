@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/imankit1/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/imankit1/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3388-right-triangles](https://github.com/imankit1/leetcode/tree/master/3388-right-triangles) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/imankit1/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3430-count-days-without-meetings](https://github.com/imankit1/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/imankit1/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/imankit1/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/imankit1/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/imankit1/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/imankit1/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/imankit1/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/imankit1/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Shortest Path
 |  |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/imankit1/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imankit1/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/imankit1/leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/imankit1/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/imankit1/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/imankit1/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/imankit1/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
