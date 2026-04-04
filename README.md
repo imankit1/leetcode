@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/imankit1/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/imankit1/leetcode/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/imankit1/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/imankit1/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/imankit1/leetcode/tree/master/0338-counting-bits) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/imankit1/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/imankit1/leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/imankit1/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/imankit1/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/imankit1/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/imankit1/leetcode/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/imankit1/leetcode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/imankit1/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/imankit1/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
