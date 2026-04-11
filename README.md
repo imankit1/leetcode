@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/imankit1/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/imankit1/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/imankit1/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/imankit1/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3934-coupon-code-validator](https://github.com/imankit1/leetcode/tree/master/3934-coupon-code-validator) |
 | [4107-find-missing-elements](https://github.com/imankit1/leetcode/tree/master/4107-find-missing-elements) |
 ## String
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/imankit1/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/imankit1/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/imankit1/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/imankit1/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/imankit1/leetcode/tree/master/3606-coupon-code-validator) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/imankit1/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/imankit1/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/imankit1/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3934-coupon-code-validator](https://github.com/imankit1/leetcode/tree/master/3934-coupon-code-validator) |
 | [4107-find-missing-elements](https://github.com/imankit1/leetcode/tree/master/4107-find-missing-elements) |
 ## Dynamic Programming
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/imankit1/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/imankit1/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/imankit1/leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/imankit1/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Design
 |  |
 | ------- |
