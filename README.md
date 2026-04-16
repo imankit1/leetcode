@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imankit1/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3388-right-triangles](https://github.com/imankit1/leetcode/tree/master/3388-right-triangles) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imankit1/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3488-closest-equal-element-queries](https://github.com/imankit1/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/imankit1/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/imankit1/leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/imankit1/leetcode/tree/master/3583-count-special-triplets) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/imankit1/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/imankit1/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imankit1/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3488-closest-equal-element-queries](https://github.com/imankit1/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/imankit1/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/imankit1/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/imankit1/leetcode/tree/master/3531-count-covered-buildings) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/imankit1/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/imankit1/leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/imankit1/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3488-closest-equal-element-queries](https://github.com/imankit1/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/imankit1/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/imankit1/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
