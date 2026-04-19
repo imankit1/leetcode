@@ -14,12 +14,12 @@ class Solution {
             }
             else j++;
         }
-        while(j<m){
-            if(nums1[i-1]<=nums2[j]){
-                res=Math.max(res, (j-i));
-            }
-            j++;
-        }
+        // while(j<m){
+        //     if(nums1[i-1]<=nums2[j]){
+        //         res=Math.max(res, (j-i));
+        //     }
+        //     j++;
+        // }
         return res;
     }
 }
