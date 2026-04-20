@@ -47,7 +47,6 @@ public:
                 pq.push({{a, b+1}, v});
                 visited[a][b+1]=-1;
              }
-            visited[a][b]=-1;
         }
 
         return res;
