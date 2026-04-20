@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/imankit1/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/imankit1/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/imankit1/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/imankit1/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/imankit1/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/imankit1/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imankit1/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imankit1/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/imankit1/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/imankit1/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/imankit1/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imankit1/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/imankit1/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/imankit1/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
