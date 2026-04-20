@@ -5,7 +5,7 @@ class Solution {
         int res=Integer.MIN_VALUE;
 
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
+            for(int j=n-1;j>i;j--){
                 if(colors[i]!=colors[j]){
                     res=Math.max(res,(j-i));
                 }
