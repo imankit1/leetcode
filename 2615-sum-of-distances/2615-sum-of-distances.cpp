@@ -6,30 +6,29 @@ public:
 
 
         // Left to Right
-        unordered_map<ll, ll>idxSumLeft;
-        unordered_map<ll, ll>idxCountLeft;
+        unordered_map<ll, ll>idxSum;
+        unordered_map<ll, ll>idxCount;
         vector<long long>prefix;
         for(int i=0;i<n;i++){
-            long long f=idxCountLeft[nums[i]];
-            long long s=idxSumLeft[nums[i]];
+            long long f=idxCount[nums[i]];
+            long long s=idxSum[nums[i]];
             long long res= (f*i)-s;
             prefix.push_back(res);
-            idxCountLeft[nums[i]]++;
-            idxSumLeft[nums[i]]+=i;
+            idxCount[nums[i]]++;
+            idxSum[nums[i]]+=i;
         }
-
+        idxCount.clear();
+        idxSum.clear();
         // Right to Left
-
-        unordered_map<long long, long long>idxSumRight;
-        unordered_map<long long, long long>idxCountRight;
+ 
         vector<long long>suffix(n);
         for(int i=n-1;i>=0;i--){
-            long long f=idxCountRight[nums[i]];
-            long long s=idxSumRight[nums[i]];
+            long long f=idxCount[nums[i]];
+            long long s=idxSum[nums[i]];
             long long res= s-(f*i);
             suffix[i]=res;
-            idxCountRight[nums[i]]++;
-            idxSumRight[nums[i]]+=i;
+            idxCount[nums[i]]++;
+            idxSum[nums[i]]+=i;
         }
 
         vector<long long>ans;
