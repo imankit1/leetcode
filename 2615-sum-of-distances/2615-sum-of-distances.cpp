@@ -1,12 +1,13 @@
 class Solution {
 public:
+    typedef long long ll;
     vector<long long> distance(vector<int>& nums) {
         int n=nums.size();
 
 
-        // Left 
-        unordered_map<long long, long long>idxSumLeft;
-        unordered_map<long long,long long>idxCountLeft;
+        // Left to Right
+        unordered_map<ll, ll>idxSumLeft;
+        unordered_map<ll, ll>idxCountLeft;
         vector<long long>prefix;
         for(int i=0;i<n;i++){
             long long f=idxCountLeft[nums[i]];
@@ -17,7 +18,7 @@ public:
             idxSumLeft[nums[i]]+=i;
         }
 
-        // Right
+        // Right to Left
 
         unordered_map<long long, long long>idxSumRight;
         unordered_map<long long, long long>idxCountRight;
