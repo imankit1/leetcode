@@ -19,7 +19,7 @@ class Solution {
             sumDesc+=nums[j];
         }
 
-        System.out.println(sumAsc+ " "+ sumDesc);
+        // System.out.println(sumAsc+ " "+ sumDesc);
         if(sumAsc> sumDesc) return 0;
         if(sumAsc<sumDesc) return 1;
         return -1;
