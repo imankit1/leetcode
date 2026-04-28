@@ -1,3 +1,32 @@
+// Brute force
+
+class Solution {
+  public:
+    int longestSubstr(string& s, int k) {
+        // code here
+        int n=s.size();
+        int maxii=INT_MIN; 
+        for(int i=0;i<n;i++){
+            int cnt=0;
+            for(int j=i+1;j<n;j++){
+                if(s[i]!=s[j]){
+                    cnt++;
+                }
+                if(cnt>k){
+                    break;
+                }
+                maxii=max(maxii, j-i+1);
+            }
+        }
+        return maxii;
+    }
+};
+
+______________________________________________________________________
+    Optimize approach 
+
+
+
 class Solution {
     public int characterReplacement(String s, int k) {
         int r=0, l=0, maxf=0, maxl=0;
