@@ -1,14 +1,13 @@
 class Solution {
     public int[] primeNumber(int n){
         int[] prime= new int[1001];
-
         for(int i=2;i*i<=1000;i++){
-            if(prime[i]==1) continue;
+            if(prime[i]==0){
             for(int j=i*i;j<=1000;j+=i){
                 prime[j]=1;
             }
+            }
         }
-        prime[0]=1;
         prime[1]=1;
         return prime;
     }
