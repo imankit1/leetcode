@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/imankit1/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/imankit1/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/imankit1/leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/imankit1/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/imankit1/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/imankit1/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/imankit1/leetcode/tree/master/0075-sort-colors) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/imankit1/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/imankit1/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/imankit1/leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/imankit1/leetcode/tree/master/0268-missing-number) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/imankit1/leetcode/tree/master/0048-rotate-image) |
 | [0289-game-of-life](https://github.com/imankit1/leetcode/tree/master/0289-game-of-life) |
 | [1253-sort-the-matrix-diagonally](https://github.com/imankit1/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imankit1/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
