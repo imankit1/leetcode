@@ -6,6 +6,8 @@ public:
         int res = 0;
 
         for(int i = 0;i< p.size(); i++){
+            if(mp[p[i]] == 1) continue;
+            
             if(p[i] >= 'a' && p[i] <= 'z' && mp[p[i]] == 0){
                 res += 1;
                 mp[p[i]] = 1;
