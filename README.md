@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/imankit1/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1664-find-users-with-valid-e-mails](https://github.com/imankit1/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1667-fix-names-in-a-table](https://github.com/imankit1/leetcode/tree/master/1667-fix-names-in-a-table) |
+| [1729-find-followers-count](https://github.com/imankit1/leetcode/tree/master/1729-find-followers-count) |
 | [1827-invalid-tweets](https://github.com/imankit1/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/imankit1/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/imankit1/leetcode/tree/master/1934-confirmation-rate) |
