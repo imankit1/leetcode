@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/imankit1/leetcode/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/imankit1/leetcode/tree/master/0816-design-hashset) |
 | [0926-find-and-replace-pattern](https://github.com/imankit1/leetcode/tree/master/0926-find-and-replace-pattern) |
+| [1189-maximum-number-of-balloons](https://github.com/imankit1/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imankit1/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/imankit1/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/imankit1/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/imankit1/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/imankit1/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/imankit1/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1189-maximum-number-of-balloons](https://github.com/imankit1/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/imankit1/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/imankit1/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/imankit1/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/imankit1/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/imankit1/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/imankit1/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imankit1/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
