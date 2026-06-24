@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/imankit1/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/imankit1/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/imankit1/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/imankit1/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/imankit1/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/imankit1/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/imankit1/leetcode/tree/master/0735-asteroid-collision) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/imankit1/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/imankit1/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/imankit1/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/imankit1/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0853-most-profit-assigning-work](https://github.com/imankit1/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0948-sort-an-array](https://github.com/imankit1/leetcode/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/imankit1/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/imankit1/leetcode/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/imankit1/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/imankit1/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0768-partition-labels](https://github.com/imankit1/leetcode/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/imankit1/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1018-largest-perimeter-triangle](https://github.com/imankit1/leetcode/tree/master/1018-largest-perimeter-triangle) |
