@@ -6,7 +6,7 @@ public:
             string temp = "";
             for(int j = i; j < word.size(); j++){
                 temp.push_back(word[j]);
-                mp[temp]++;
+                mp[temp] = 1;
             }
         }
         int cnt = 0;
