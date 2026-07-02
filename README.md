@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/imankit1/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/imankit1/leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/imankit1/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
+| [3436-find-valid-emails](https://github.com/imankit1/leetcode/tree/master/3436-find-valid-emails) |
 ## Divide and Conquer
 |  |
 | ------- |
