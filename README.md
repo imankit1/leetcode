@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/imankit1/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/imankit1/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/imankit1/leetcode/tree/master/1321-restaurant-growth) |
+| [1393-capital-gainloss](https://github.com/imankit1/leetcode/tree/master/1393-capital-gainloss) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/imankit1/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/imankit1/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/imankit1/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
