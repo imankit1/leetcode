@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/imankit1/leetcode/tree/master/0740-delete-and-earn) |
 | [0816-design-hashset](https://github.com/imankit1/leetcode/tree/master/0816-design-hashset) |
 | [0853-most-profit-assigning-work](https://github.com/imankit1/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/imankit1/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/imankit1/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0926-find-and-replace-pattern](https://github.com/imankit1/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/imankit1/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/imankit1/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/imankit1/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0853-most-profit-assigning-work](https://github.com/imankit1/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/imankit1/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/imankit1/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imankit1/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/imankit1/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
