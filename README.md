@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/imankit1/leetcode/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/imankit1/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1018-largest-perimeter-triangle](https://github.com/imankit1/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1020-number-of-enclaves](https://github.com/imankit1/leetcode/tree/master/1020-number-of-enclaves) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/imankit1/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/imankit1/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/imankit1/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imankit1/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/imankit1/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/imankit1/leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/imankit1/leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/imankit1/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imankit1/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/imankit1/leetcode/tree/master/1306-jump-game-iii) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/imankit1/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/imankit1/leetcode/tree/master/0733-flood-fill) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/imankit1/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/imankit1/leetcode/tree/master/1020-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imankit1/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/imankit1/leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/imankit1/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/imankit1/leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/imankit1/leetcode/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/imankit1/leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/imankit1/leetcode/tree/master/1020-number-of-enclaves) |
 | [1253-sort-the-matrix-diagonally](https://github.com/imankit1/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1260-shift-2d-grid](https://github.com/imankit1/leetcode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imankit1/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -850,5 +854,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/imankit1/leetcode/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/imankit1/leetcode/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/imankit1/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
