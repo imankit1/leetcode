@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/imankit1/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/imankit1/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/imankit1/leetcode/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/imankit1/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/imankit1/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/imankit1/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/imankit1/leetcode/tree/master/1448-maximum-69-number) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/imankit1/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/imankit1/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3623-count-number-of-trapezoids-i](https://github.com/imankit1/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Rolling Hash
 |  |
