@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/imankit1/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/imankit1/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/imankit1/leetcode/tree/master/3531-count-covered-buildings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/imankit1/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3583-count-special-triplets](https://github.com/imankit1/leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/imankit1/leetcode/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/imankit1/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/imankit1/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3388-right-triangles](https://github.com/imankit1/leetcode/tree/master/3388-right-triangles) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/imankit1/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/imankit1/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/imankit1/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/imankit1/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/imankit1/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
