@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imankit1/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/imankit1/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/imankit1/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/imankit1/leetcode/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/imankit1/leetcode/tree/master/0290-word-pattern) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/imankit1/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/imankit1/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0735-asteroid-collision](https://github.com/imankit1/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/imankit1/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -872,4 +874,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/imankit1/leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/imankit1/leetcode/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/imankit1/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/imankit1/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
