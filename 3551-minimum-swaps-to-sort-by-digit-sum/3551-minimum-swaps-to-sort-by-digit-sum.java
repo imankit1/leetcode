@@ -9,27 +9,30 @@ class Solution {
     }
     public int minSwaps(int[] nums) {
        int n = nums.length;
-       int[][] temp = new int[n][2];
+    //    int[][] temp = new int[n][2];
 
-        for(int i = 0; i < nums.length; i++){
-            int sum = sumDigit(nums[i]);
-            temp[i][0] = nums[i];
-            temp[i][1] = sum;
+    //     for(int i = 0; i < nums.length; i++){
+    //         int sum = sumDigit(nums[i]);
+    //         temp[i][0] = nums[i];
+    //         temp[i][1] = sum;
             
-        }
+    //     }
         // Arrays.sort(temp, (a, b) -> Integer.compare(a[1], b[1]));
 
-        Arrays.sort(temp, (a, b) -> {
-    if (a[1] != b[1]) {
-        return Integer.compare(a[1], b[1]); // Primary sort (ascending)
+ Integer[] afterSort= new Integer[n];
+    for(int i = 0;i < n; i++){
+        afterSort[i] = nums[i];
     }
-    return Integer.compare(a[0], b[0]);     // Secondary sort (ascending)
+        Arrays.sort(afterSort, (a, b) -> {
+            int dsum1 = sumDigit(a);
+            int dsum2 = sumDigit(b);
+    if (dsum1 != dsum2) {
+        return Integer.compare(dsum1, dsum2); // Primary sort (ascending)
+    }
+    return Integer.compare(a, b);     // Secondary sort (ascending)
 });
 
-    int[] afterSort= new int[n];
-    for(int i = 0;i < n; i++){
-        afterSort[i] = temp[i][0];
-    }
+   
          
     Map<Integer, Integer>mp = new HashMap<>();
     for(int i = 0; i < n; i++){
