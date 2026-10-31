@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-count-zero-request-servers](https://github.com/imankit1/leetcode/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/imankit1/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/imankit1/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/imankit1/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3001-apply-operations-to-maximize-score](https://github.com/imankit1/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/imankit1/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/imankit1/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/imankit1/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/imankit1/leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/imankit1/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/imankit1/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3488-closest-equal-element-queries](https://github.com/imankit1/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/imankit1/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/imankit1/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/imankit1/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imankit1/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/imankit1/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/imankit1/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imankit1/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Simulation
 |  |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/imankit1/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/imankit1/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/imankit1/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/imankit1/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3001-apply-operations-to-maximize-score](https://github.com/imankit1/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imankit1/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3738-make-array-non-decreasing](https://github.com/imankit1/leetcode/tree/master/3738-make-array-non-decreasing) |
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/imankit1/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1628-count-submatrices-with-all-ones](https://github.com/imankit1/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/imankit1/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3001-apply-operations-to-maximize-score](https://github.com/imankit1/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3738-make-array-non-decreasing](https://github.com/imankit1/leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Number Theory
@@ -864,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/imankit1/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3719-longest-balanced-subarray-i](https://github.com/imankit1/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/imankit1/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/imankit1/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -898,4 +904,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/imankit1/leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/imankit1/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/imankit1/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
