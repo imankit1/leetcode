@@ -1,3 +1,38 @@
+//brute force
+class Solution {
+public:
+    long long goodTriplets(vector<int>& nums1, vector<int>& nums2) {
+        int n = nums1.size();
+
+        unordered_map<int, int>tripletIdx;
+        for(int i = 0; i < n; i++){
+            tripletIdx[nums2[i]] = i;
+        }
+
+        long long cnt = 0;
+        for(int i = 0; i < n; i++){
+            for(int j = i + 1; j < n; j++){
+                for(int k = j + 1; k < n; k++){
+                    int a = nums1[i];
+                    int b = nums1[j];
+                    int c = nums1[k];
+
+                      int i1 = tripletIdx[a];
+                      int i2 = tripletIdx[b];
+                      int i3 = tripletIdx[c];
+
+            if(i1 < i2 && i2 < i3) cnt++;
+                }
+            }
+        }
+        return cnt;
+    }
+};
+
+// _________________________________________________________________________________________________
+//optimize code
+
+
 class Solution {
 public:
 typedef long long ll;
