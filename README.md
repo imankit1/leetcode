@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/imankit1/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/imankit1/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/imankit1/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1882-process-tasks-using-servers](https://github.com/imankit1/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/imankit1/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/imankit1/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imankit1/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/imankit1/leetcode/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imankit1/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1882-process-tasks-using-servers](https://github.com/imankit1/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imankit1/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/imankit1/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imankit1/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
