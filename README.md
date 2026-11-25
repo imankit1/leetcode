@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/imankit1/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/imankit1/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3934-coupon-code-validator](https://github.com/imankit1/leetcode/tree/master/3934-coupon-code-validator) |
+| [3934-smallest-unique-subarray](https://github.com/imankit1/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [4107-find-missing-elements](https://github.com/imankit1/leetcode/tree/master/4107-find-missing-elements) |
 ## String
 |  |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/imankit1/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/imankit1/leetcode/tree/master/3797-design-spreadsheet) |
 | [3934-coupon-code-validator](https://github.com/imankit1/leetcode/tree/master/3934-coupon-code-validator) |
+| [3934-smallest-unique-subarray](https://github.com/imankit1/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [4107-find-missing-elements](https://github.com/imankit1/leetcode/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/imankit1/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/imankit1/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/imankit1/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3934-smallest-unique-subarray](https://github.com/imankit1/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/imankit1/leetcode/tree/master/0816-design-hashset) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/imankit1/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/imankit1/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -897,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/imankit1/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/imankit1/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Graph Theory
 |  |
 | ------- |
@@ -919,4 +924,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2179-count-good-triplets-in-an-array](https://github.com/imankit1/leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/imankit1/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/imankit1/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
